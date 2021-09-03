@@ -1,5 +1,8 @@
-m=5
-s="mohamed"
+m  =5
+s = "mohamed"
 
-print(5)
+print(type(m))
+print(type(s))
+
+print(m)
 print(s)
