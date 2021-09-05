@@ -1,2 +1,2 @@
-# Git_course.py
+# python_fundamenals 
 learning
